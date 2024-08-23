@@ -41,14 +41,14 @@ The **School Management System** is a desktop application developed using C# and
 
 | Dashboard Page |
 | -------------- |
-| <img src="SchoolMangementSystem/Screenshots/Capture d'écran 2024-05-10 182057.png" alt="Dashboard Page" width="400"/> |
+| <img src="SchoolMangementSystem/Screenshots/Capture d'écran 2024-05-10 182057.png" alt="Dashboard Page" width="600"/> |
 
 | Adding Student Page | Adding Teacher Page |
 | ------------------- | ------------------- |
-| <img src="SchoolMangementSystem/Screenshots/Capture d'écran 2024-05-10 182130.png" alt="Adding Student Page" width="400"/> | <img src="SchoolMangementSystem/Screenshots/Capture d'écran 2024-05-10 182159.png" alt="Adding Teacher Page" width="400"/> |
+| <img src="SchoolMangementSystem/Screenshots/Capture d'écran 2024-05-10 182130.png" alt="Adding Student Page" width="600"/> | <img src="SchoolMangementSystem/Screenshots/Capture d'écran 2024-05-10 182159.png" alt="Adding Teacher Page" width="600"/> |
 
 | Managing Student's Data Page | Managing Teacher's Data Page |
 | ---------------------------- | ---------------------------- |
-| <img src="SchoolMangementSystem/Screenshots/Capture d'écran 2024-05-10 170743.png" alt="Managing Student's Data Page" width="400"/> | <img src="SchoolMangementSystem/Screenshots/Capture d'écran 2024-05-10 170829.png" alt="Managing Teacher's Data Page" width="400"/> |
+| <img src="SchoolMangementSystem/Screenshots/Capture d'écran 2024-05-10 170743.png" alt="Managing Student's Data Page" width="600"/> | <img src="SchoolMangementSystem/Screenshots/Capture d'écran 2024-05-10 170829.png" alt="Managing Teacher's Data Page" width="600"/> |
 
 
