@@ -1,0 +1,152 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DELL\\Desktop\\Projet en cours\\Projet Dot Net\\SchoolMangementSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B6EDACE6-570E-41C3-A9D3-65EA2A47D0D4}|SchoolMangementSystem\\SchoolMangementSystem.csproj|C:\\Users\\DELL\\Desktop\\Projet en cours\\Projet Dot Net\\SchoolMangementSystem\\schoolmangementsystem\\dashboardform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6EDACE6-570E-41C3-A9D3-65EA2A47D0D4}|SchoolMangementSystem\\SchoolMangementSystem.csproj|solutionrelative:schoolmangementsystem\\dashboardform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6EDACE6-570E-41C3-A9D3-65EA2A47D0D4}|SchoolMangementSystem\\SchoolMangementSystem.csproj|c:\\users\\dell\\desktop\\projet en cours\\projet dot net\\schoolmangementsystem\\schoolmangementsystem\\dashboardform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B6EDACE6-570E-41C3-A9D3-65EA2A47D0D4}|SchoolMangementSystem\\SchoolMangementSystem.csproj|solutionrelative:schoolmangementsystem\\dashboardform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6EDACE6-570E-41C3-A9D3-65EA2A47D0D4}|SchoolMangementSystem\\SchoolMangementSystem.csproj|c:\\users\\dell\\desktop\\projet en cours\\projet dot net\\schoolmangementsystem\\schoolmangementsystem\\dashboardform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6EDACE6-570E-41C3-A9D3-65EA2A47D0D4}|SchoolMangementSystem\\SchoolMangementSystem.csproj|solutionrelative:schoolmangementsystem\\dashboardform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6EDACE6-570E-41C3-A9D3-65EA2A47D0D4}|SchoolMangementSystem\\SchoolMangementSystem.csproj|c:\\users\\dell\\desktop\\projet en cours\\projet dot net\\schoolmangementsystem\\schoolmangementsystem\\dashboardform.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{B6EDACE6-570E-41C3-A9D3-65EA2A47D0D4}|SchoolMangementSystem\\SchoolMangementSystem.csproj|solutionrelative:schoolmangementsystem\\dashboardform.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6EDACE6-570E-41C3-A9D3-65EA2A47D0D4}|SchoolMangementSystem\\SchoolMangementSystem.csproj|c:\\users\\dell\\desktop\\projet en cours\\projet dot net\\schoolmangementsystem\\schoolmangementsystem\\addstudentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B6EDACE6-570E-41C3-A9D3-65EA2A47D0D4}|SchoolMangementSystem\\SchoolMangementSystem.csproj|solutionrelative:schoolmangementsystem\\addstudentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6EDACE6-570E-41C3-A9D3-65EA2A47D0D4}|SchoolMangementSystem\\SchoolMangementSystem.csproj|c:\\users\\dell\\desktop\\projet en cours\\projet dot net\\schoolmangementsystem\\schoolmangementsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6EDACE6-570E-41C3-A9D3-65EA2A47D0D4}|SchoolMangementSystem\\SchoolMangementSystem.csproj|solutionrelative:schoolmangementsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6EDACE6-570E-41C3-A9D3-65EA2A47D0D4}|SchoolMangementSystem\\SchoolMangementSystem.csproj|c:\\users\\dell\\desktop\\projet en cours\\projet dot net\\schoolmangementsystem\\schoolmangementsystem\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B6EDACE6-570E-41C3-A9D3-65EA2A47D0D4}|SchoolMangementSystem\\SchoolMangementSystem.csproj|solutionrelative:schoolmangementsystem\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6EDACE6-570E-41C3-A9D3-65EA2A47D0D4}|SchoolMangementSystem\\SchoolMangementSystem.csproj|C:\\Users\\DELL\\Desktop\\Projet en cours\\Projet Dot Net\\SchoolMangementSystem\\schoolmangementsystem\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6EDACE6-570E-41C3-A9D3-65EA2A47D0D4}|SchoolMangementSystem\\SchoolMangementSystem.csproj|solutionrelative:schoolmangementsystem\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DashboardForm.resx",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Projet en cours\\Projet Dot Net\\SchoolMangementSystem\\SchoolMangementSystem\\DashboardForm.resx",
+              "RelativeDocumentMoniker": "SchoolMangementSystem\\DashboardForm.resx",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Projet en cours\\Projet Dot Net\\SchoolMangementSystem\\SchoolMangementSystem\\DashboardForm.resx",
+              "RelativeToolTip": "SchoolMangementSystem\\DashboardForm.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-05-16T09:47:31.094Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DashboardForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Projet en cours\\Projet Dot Net\\SchoolMangementSystem\\SchoolMangementSystem\\DashboardForm.cs",
+              "RelativeDocumentMoniker": "SchoolMangementSystem\\DashboardForm.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Projet en cours\\Projet Dot Net\\SchoolMangementSystem\\SchoolMangementSystem\\DashboardForm.cs [Design]",
+              "RelativeToolTip": "SchoolMangementSystem\\DashboardForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T09:47:28.763Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AddStudentForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Projet en cours\\Projet Dot Net\\SchoolMangementSystem\\SchoolMangementSystem\\AddStudentForm.cs",
+              "RelativeDocumentMoniker": "SchoolMangementSystem\\AddStudentForm.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Projet en cours\\Projet Dot Net\\SchoolMangementSystem\\SchoolMangementSystem\\AddStudentForm.cs [Design]",
+              "RelativeToolTip": "SchoolMangementSystem\\AddStudentForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T09:45:32.94Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Projet en cours\\Projet Dot Net\\SchoolMangementSystem\\SchoolMangementSystem\\MainForm.cs",
+              "RelativeDocumentMoniker": "SchoolMangementSystem\\MainForm.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Projet en cours\\Projet Dot Net\\SchoolMangementSystem\\SchoolMangementSystem\\MainForm.cs [Design]",
+              "RelativeToolTip": "SchoolMangementSystem\\MainForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T09:44:04.571Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DashboardForm.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Projet en cours\\Projet Dot Net\\SchoolMangementSystem\\SchoolMangementSystem\\DashboardForm.cs",
+              "RelativeDocumentMoniker": "SchoolMangementSystem\\DashboardForm.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Projet en cours\\Projet Dot Net\\SchoolMangementSystem\\SchoolMangementSystem\\DashboardForm.cs",
+              "RelativeToolTip": "SchoolMangementSystem\\DashboardForm.cs",
+              "ViewState": "AQIAAFwAAAAAAAAAAAAgwD4AAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T13:56:00.374Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DashboardForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Projet en cours\\Projet Dot Net\\SchoolMangementSystem\\SchoolMangementSystem\\DashboardForm.Designer.cs",
+              "RelativeDocumentMoniker": "SchoolMangementSystem\\DashboardForm.Designer.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Projet en cours\\Projet Dot Net\\SchoolMangementSystem\\SchoolMangementSystem\\DashboardForm.Designer.cs",
+              "RelativeToolTip": "SchoolMangementSystem\\DashboardForm.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T09:47:33.245Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LoginForm.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Projet en cours\\Projet Dot Net\\SchoolMangementSystem\\SchoolMangementSystem\\LoginForm.cs",
+              "RelativeDocumentMoniker": "SchoolMangementSystem\\LoginForm.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Projet en cours\\Projet Dot Net\\SchoolMangementSystem\\SchoolMangementSystem\\LoginForm.cs",
+              "RelativeToolTip": "SchoolMangementSystem\\LoginForm.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAwAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T13:53:54.485Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Projet en cours\\Projet Dot Net\\SchoolMangementSystem\\SchoolMangementSystem\\Program.cs",
+              "RelativeDocumentMoniker": "SchoolMangementSystem\\Program.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Projet en cours\\Projet Dot Net\\SchoolMangementSystem\\SchoolMangementSystem\\Program.cs",
+              "RelativeToolTip": "SchoolMangementSystem\\Program.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwFkAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T13:52:42.325Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
